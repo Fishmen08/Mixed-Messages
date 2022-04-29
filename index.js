@@ -1,5 +1,4 @@
 console.log('Mixed Messages Project');
-console.log(6 * 5);
 
 // making a loop to find a random year just realised i dont need a loop for this
 
